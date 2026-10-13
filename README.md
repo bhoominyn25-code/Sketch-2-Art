@@ -40,7 +40,7 @@ A Generative AI project that transforms sketches into artistic images using Stab
 
 ### Mosaic Output
 
-![House Abstract](house_output2(mosaic ).png)
+![House Abstract](house_output2(mosaic).png)
 
 ## Author
 
